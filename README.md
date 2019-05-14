@@ -12,4 +12,4 @@ Goal: Create your portfolio site with the following items:
     A responsive layout
     Responsive images
 
-Github Link: https://buelowek1225.github.io/Basic-Portfolio/
+Github Link: https://buelowek1225.github.io/Portfolio_Ellen_Buelow/
