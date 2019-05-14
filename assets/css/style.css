@@ -1,0 +1,83 @@
+/* Portfolio Picture */
+.profile-pic {
+    /* width: 100% \9; */
+    width: 275px;
+}
+
+/*image container*/
+.image-container {
+    float: left;
+    margin-right: 20px;
+}
+
+.footer-details {
+    height: 50px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    position: sticky !important;    
+}
+
+.margin-top-25 {
+    margin-top: 25px;
+}
+
+.container-details {
+    background-color: #ffffff;
+    border: 1px #dddddd solid;
+    color: #777777;
+    margin-top: 15px;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+h1 {
+    color: #777777;
+    border-bottom: 2px #dddddd solid;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.paragraph-format {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar-format {
+    background-color: #ffffff !important;
+    border-bottom: 1px #cccccc solid;
+    padding-bottom: unset !important;
+    padding-top: unset !important;
+}
+
+.navbar-title-format {
+    background-color: #4aaaa5;
+    padding: 10px;
+    color: #ffffff !important;
+    font-size: 2.5rem !important;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+.header-detail-items {
+    color: #777777;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+body {
+    background-image: url("..\\images\\concrete_seamless.png");
+}
+
+.button-style {
+    background-color: #4aaaa5 !important;
+    border-color: #4aaaa5 !important;
+}
+
+.fig-caption-style {
+    background: #4aaaa5;
+    padding: 5px;
+    color: #ffffff !important;
+}
+
+.linkText {
+    text-align: center;
+}
